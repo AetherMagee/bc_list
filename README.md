@@ -329,6 +329,7 @@ to be filled... *юзайте Edge ( ͡° ͜ʖ ͡°).* А вообще, этот
 * [SauceNAO.](https://f-droid.org/ru/packages/com.luk.saucenao/) Android-клиент [одноимённого сервиса](https://saucenao.com/) для обратного поиска изображений.
 * [HakuNeko.](https://hakuneko.download/) Загрузчик манги, поддерживает большое количество источников.
 * [Simplewall.](https://www.henrypp.org/product/simplewall) Настройка трафика с Windows Filtering Platform (WFP).
+* [Tailscale.](https://tailscale.com/) Виртуальная локальная сеть на основе WireGuard, без необходимости поднимать свой сервер. Позволяет связать телефон, компьютер и что-то ещё по вкусу в единую сеть для различных целей. Важно: не подойдёт для игр по двум причинам: во первых, пинг может быть довольно высокий, а во вторых, на личных почтах в одной сети может быть только один пользователь.
 
 **Модули для Magisk:**
 * [ViPER4Android Repackaged.](https://github.com/programminghoch10/ViPER4AndroidRepackaged) Не требует никаких дополнительных манипуляций с любым устройством. Всё работает, сразу после установки.
