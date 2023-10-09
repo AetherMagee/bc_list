@@ -332,6 +332,7 @@ to be filled... *юзайте Edge ( ͡° ͜ʖ ͡°).* А вообще, этот
 * [HakuNeko.](https://hakuneko.download/) Загрузчик манги, поддерживает большое количество источников.
 * [Simplewall.](https://www.henrypp.org/product/simplewall) Настройка трафика с Windows Filtering Platform (WFP).
 * [Tailscale.](https://tailscale.com/) Виртуальная локальная сеть на основе WireGuard без необходимости поднимать свой сервер. Позволяет связать телефон, компьютер и что-либо ещё в единую сеть для различных целей. Важно: не подойдёт для игр, поскольку 1) бывает слишком высокий пинг; 2) на личных почтах в одной сети может быть только один пользователь.
+* [Sysinternals Suite.](https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite) Огромный набор утилит для пердолинга винды. Из самого интересного: Autoruns - удобное управление всеми автозапусками (в т.ч. сервисы, шальные ключи реестра и т.д.), Process Explorer - аналог Process Hacker 2, NotMyFault - симуляция различных крашей и утечек памятию 
 
 **Модули для Magisk:**
 * [ViPER4Android Repackaged.](https://github.com/programminghoch10/ViPER4AndroidRepackaged) Не требует никаких дополнительных манипуляций с любым устройством. Всё работает, сразу после установки.
