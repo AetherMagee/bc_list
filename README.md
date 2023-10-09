@@ -298,7 +298,7 @@ to be filled... *юзайте Edge ( ͡° ͜ʖ ͡°).* А вообще, этот
 * [BrowserLeaks.](https://browserleaks.com/ip) Для большинства подойдёт вместо заезженного рекламного 2IP, но так же даёт и множество другой информации о вашем IP-адресе.
 * [RIPE.](https://apps.db.ripe.net/db-web-ui/query) Дата-база IP-адресов, кому принадлежат и когда были замечены.
 * [MassGrave.](https://massgrave.dev) Да, он указан в начале списка как метод активации. Но помимо того, сайт содержит прямые ссылки на загрузку оригинальных инсталлеров/образов Office или Windows всех языков, различные FAQ и полезности, например, активация других продуктов Microsoft или обход геоблокировки для пользователей из России.
-* [SimpleLogin](https://simplelogin.io/) | [DuckDuckGo Email Protection.](https://duckduckgo.com/email/) | [Firerox Relay](https://relay.firefox.com/) Форвардинг почты. 
+* [SimpleLogin.](https://simplelogin.io/) | [DuckDuckGo Email Protection.](https://duckduckgo.com/email/) | [Firerox Relay.](https://relay.firefox.com/) Форвардинг почты. 
 
 **Telegram-боты:**
 * [@murglar_bot.](https://t.me/murglar_bot) Загрузка музыки с российских площадок и Deezer в форматах MP3/FLAC. Поддерживает параметры поиска, устанавливаются перед запросом. Здесь подробнее...  
