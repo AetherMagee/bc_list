@@ -276,12 +276,14 @@ to be filled... *юзайте Edge ( ͡° ͜ʖ ͡°).* А вообще, этот
 # :wrench: CLI-утилиты
 > [!NOTE]
 > Для удобства использования, исполняемый .exe нужно закинуть в /system32, либо прописать путь к файлу в переменные среды PATH. [Как это сделать](https://remontka.pro/add-to-path-variable-windows/)  
-Либо установить эти утилиты через Winget/Chocolately (рекомендуется!).  
+Либо установить эти утилиты через Winget/Chocolatey/Scoop (рекомендуется!).  
 * [aria2c.](https://aria2.github.io/) Аналог wget, Download Master и прочих. Поддерживает торренты.
 * [ffmpeg.](https://ffmpeg.org/) Конвертер аудио и видео файлов, имеет много фич.
 * [yt-dlp.](https://github.com/yt-dlp/yt-dlp) Загрузчик видео и аудио с YouTube, SoundCloud, PornHub и еще [с 1838 сайтов.](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md//) Рекомендуется использовать через Hitomi Downloader (см. ниже в разделе Полезное).
 * [payload-dumper-go.](https://github.com/ssut/payload-dumper-go) Быстрая разборка payload.bin Android-прошивок на отдельные образы.
 * [Revancify.](https://github.com/decipher3114/Revancify#installation) Удобная сборка и установка ReVanced/ReVanced Extended через Termux.
+* [Chocolatey.](https://community.chocolatey.org/) Пакетный менеджер для Windows в стиле линуксовских apt/pacman. Мощнее встроенного Winget.
+* [Scoop.](https://scoop.sh/) Аналог Chocolatey. В отличии от последнего, устанавливает программы не в систему, а в отдельную папку юзера, некие "полу-портативные" версии, которые потом легко удалить. Из минусов: ОЧЕНЬ медленный cli-поиск.
 
 # :stars: Полезное
 **Визуальное оформление:**
